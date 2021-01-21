@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+안녕하세용!
+
+저는 강대영입니다.
+
 <!--
 **daeungdaeung/daeungdaeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
