@@ -4,8 +4,6 @@
 
 저는 강대영입니다.
 
-[![daeungdaeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeungdaeung)](https://github.com/daeungdaeung/github-readme-stats)
-
 ![daeungdaeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeungdaeung&show_icons=true&theme=dark)
 
 <!--
