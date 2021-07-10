@@ -4,7 +4,7 @@
 
 저는 강대영입니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![daeungdaeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeungdaeung)](https://github.com/daeungdaeung/github-readme-stats)
 
 
 <!--
